@@ -203,6 +203,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
         $(LOCAL_PATH)/configs/gpfspath_oem_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/gpfspath_oem_config.xml
 
+# Firmware patch
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/move_files.sh:install/bin/move_files.sh
+    
 # FM
 PRODUCT_PACKAGES += \
     FM2 \
