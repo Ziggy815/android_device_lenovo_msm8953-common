@@ -99,9 +99,7 @@ PRODUCT_PACKAGES += \
     android.hardware.audio@7.1-impl:32 \
     android.hardware.audio.effect@7.0-impl:32 \
     android.hardware.audio.service \
-    android.hardware.bluetooth.audio-impl:32 \
     android.hardware.soundtrigger@2.1-impl:32 \
-    audio.bluetooth.default \
     audio.primary.msm8953:32 \
     audio.r_submix.default \
     audio.usb.default \
@@ -139,6 +137,12 @@ PRODUCT_COPY_FILES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
+    audio.bluetooth.default \
+    android.hardware.bluetooth.a2dp@1.0.vendor \
+    android.hardware.bluetooth.audio-impl \
+    android.hardware.bluetooth.audio@2.2-impl \
+    android.hardware.bluetooth.audio@2.1-impl \
+    android.hardware.bluetooth.audio@2.0-impl \
     android.hardware.bluetooth@1.0.vendor:64 \
     vendor.qti.hardware.btconfigstore@1.0.vendor:64 \
     vendor.qti.hardware.btconfigstore@2.0.vendor:64
