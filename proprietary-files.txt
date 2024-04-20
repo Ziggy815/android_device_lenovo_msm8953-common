@@ -76,15 +76,6 @@ vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|fde061e2d2cf67885dacc3d5d5ecff77f47
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|3ec5e3d4988ce79d12a6862d706a4f2465a7ce6a
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|729a0beffb4db7f9f64d49e0cde61150d7ce2540
 
-# ACDB audio
-etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
-etc/acdbdata/MTP/MTP_General_cal.acdb:vendor/etc/acdbdata/MTP/MTP_General_cal.acdb
-etc/acdbdata/MTP/MTP_Global_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb
-etc/acdbdata/MTP/MTP_Handset_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb
-etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb
-etc/acdbdata/MTP/MTP_Headset_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb
-etc/acdbdata/MTP/MTP_Speaker_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb
-
 # Bluetooth - from LA.UM.10.6.2.r1-02500-89xx.0
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|34317bdfb200d3e0e09a49ffbb978804c4363407
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc|f4ee3b2da2b08647447869ade86ec63f7340accc
