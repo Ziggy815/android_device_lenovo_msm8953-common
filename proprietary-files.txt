@@ -26,9 +26,9 @@ vendor/lib/rfsa/adsp/libfastcvadsp_skel.so|1ff4a48009e88435d93fd2b9b0c5ea59cedbb
 vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so|944169db3ac67056b92ef4f850f69346958370b5
 vendor/lib/rfsa/adsp/libscveT2T_skel.so|91b9200dbb982abf0d6b440668252d892a616f66
 
-# ANT+ - from LA.UM.10.6.2.r1-01600-89xx.0
-system_ext/lib64/com.qualcomm.qti.ant@1.0.so|ed5fa24a93d84833726666206381aa59fc7371c8
-vendor/lib64/hw/com.dsi.ant@1.0-impl.so|713d4c07424068a29875fcf727eef8f15e50d483
+# ANT+ - from Fairphone/FP3/FP3-REL-6.A.023.1-gms-497e9bef-user
+system_ext/lib64/com.qualcomm.qti.ant@1.0.so|2bad2579ce576c46af6a50ee6687bd92fa7f76cd
+vendor/lib64/hw/com.dsi.ant@1.0-impl.so|6e2b594b44552b42000164c091af5cf7a4c508f5
 
 # Audio - from LA.UM.10.6.2.r1-01600-89xx.0
 vendor/lib/libacdb-fts.so|f78193e21b6b62bdb2bfb656ecd826e1e90498ff
