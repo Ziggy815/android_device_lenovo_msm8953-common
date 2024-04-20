@@ -66,15 +66,15 @@ vendor/lib64/libdlbdsservice.so|77e3a0d44ce95c7e5139badb94087ea58211b022
 vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so|7afb6907a83aa7c9faa7308ae5b39338eadac1c8
 vendor/lib64/vendor.dolby.hardware.dms@1.0.so|f3593ce869d036f98ddc7fc8223a8b55dcf0ca36
 
-# Audio ACDB - from LA.UM.10.6.2.r1-01600-89xx.0
-vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb|0364848ae2eb5505bdace46d6b8f1391a39095a8
-vendor/etc/acdbdata/QRD/QRD_General_cal.acdb|6e8c873201410aa64eebf75819d8ea3bc11613cf
-vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb|0ae1d3c0dfd9c27afd030584b233d2f4b454a743
-vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb|855422d5b156ed60f5f6bacb9458e85f6c67ed12
-vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb|457bd7d412d9359297b9923cee264214d013547a
-vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|ba8ab21912dd9a8c41014f6c26f2dca6d4476fdf
-vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|b1a9a1497d1ecfab01e8a59d4c33410d409753a3
-vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|5f49399bfbb4d3b57541643d080b8bbb73200956
+# Audio ACDB - from Fairphone/FP3/FP3-REL-6.A.023.1-gms-497e9bef-user
+vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb|e1ca01987bfef191dc31a122a43a710ed9d96fca
+vendor/etc/acdbdata/QRD/QRD_General_cal.acdb|6ad3b891e16474fb92268c21a2c36142904e28da
+vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb|820eda14c35b5fb56797b53686ee6eae1527aaf1
+vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb|ccd76b45818cf74221e34772f0acd1a2e352ff7f
+vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb|6be245a441662ff6152d014d360d9854aff77ea5
+vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|fde061e2d2cf67885dacc3d5d5ecff77f477b12d
+vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|3ec5e3d4988ce79d12a6862d706a4f2465a7ce6a
+vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|729a0beffb4db7f9f64d49e0cde61150d7ce2540
 
 # ACDB audio
 etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
