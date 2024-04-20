@@ -46,10 +46,10 @@ vendor/lib64/libadiertac.so|bf301460c27cb2f78bfb7f0821c1c103da321ff8
 vendor/lib64/libaudcal.so|82e7f821044492fa42dcad1e1ace91561cc8e463
 vendor/lib64/libaudioalsa.so|686766d57db36b00710973872e40f614bb2fe11f
 
-# Audio - from LA.UM.10.6.2.r1-01600-89xx.0
-vendor/lib/soundfx/libqcbassboost.so|29d65eb15bfeeb872cffe329ad4c8bd09b5b69a7
-vendor/lib/soundfx/libqcreverb.so|736fcd57f2d4c468ae04449a2fa49eec521dc067
-vendor/lib/soundfx/libqcvirt.so|72ad436f2c45b53057125a855acd36a0c812e2ed
+# Audio soundfx - from Fairphone/FP3/FP3-REL-6.A.023.1-gms-497e9bef-user
+vendor/lib/soundfx/libqcbassboost.so|fbeb7fc080f5fce028eb34e021367037483d1819
+vendor/lib/soundfx/libqcreverb.so|92a1d4491fb3213e96db1201a9846b40968059cf
+vendor/lib/soundfx/libqcvirt.so|78730643ba19de92fc1d4578a532cae8deb73059b
 
 # Audio (Dolby) - from sofiap_ao_eea-user-11-RPR31.Q4U-20-26-2-a10bb-release-keys
 -system_ext/app/MotoDolbyV3/MotoDolbyV3.apk|f6c483f79d9b8713ff03f475dad7bcf2c3e63ba5
