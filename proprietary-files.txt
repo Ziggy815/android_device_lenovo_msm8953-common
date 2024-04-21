@@ -610,7 +610,7 @@ vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e157937
 vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|933eb7026797f3dadad3d10fd69443b11f6563f3
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|16baab27397ad493e845515c20ac0c0c063c775d
 
-# Wi-Fi - from LA.UM.10.6.2.r1-01600-89xx.0
-vendor/bin/wcnss_service|150eb51feabe6013ad4cbdaf7e012bb772360904
+# Wi-Fi - from Fairphone/FP3/FP3:13/6.A.018.0/gms-1f4b2a90:user/release-keys
+vendor/bin/wcnss_service|18a234235418d01f7b6faa8a6bea78de5f4d346a
 
 
