@@ -361,10 +361,10 @@ vendor/etc/perf/perfconfigstore.xml|de7a673eca27fb44b7dcd34c60d21f7ffbd2b9d8
 vendor/etc/perf/targetconfig.xml|aa20c25397df1455206965737f82d44d44430e45
 vendor/etc/perf/targetresourceconfigs.xml|c7575bce83e7d83a68e260437ff0ba164dfcd25c
 
-# Peripheral manager - from LA.UM.10.6.2.r1-02500-89xx.0
-vendor/bin/pm-proxy|7b897d3a4aae8297a0e0b54bdcf5f0a8ef3f7a97
-vendor/bin/pm-service|45cf641ec40478289aed906209f01418d67a09ac
-vendor/lib64/libperipheral_client.so|d31195fdcb56f7cba8034f5a7f7d38b401332c63
+# Peripheral manager - from Fairphone/FP3/FP3:13/6.A.018.0/gms-1f4b2a90:user/release-keys
+vendor/bin/pm-proxy|910437c11108aa66e803bbc760ce3998d141a6b4
+vendor/bin/pm-service|98827a6bf6693033a7c767e3fb4f097b9075a0ef
+vendor/lib64/libperipheral_client.so|9bfd41e276e16b8f7c6808f3d87531fc5be4cdd5
 
 # Power-off alarm - from LA.UM.9.6.3.r1-06200-89xx.0
 product/app/PowerOffAlarm/PowerOffAlarm.apk|bc906abd03e4a243201dde626b6580fd8a4f73ce
