@@ -72,6 +72,9 @@ if [ -z "${ONLY_COMMON}" ] && [ -s "${MY_DIR}/../${DEVICE}/proprietary-files.txt
     extract "${MY_DIR}/../${DEVICE}/proprietary-files.txt" "${SRC}" "${KANG}" --section "${SECTION}"
 fi
 
+# IMS
+"${PATCHELF}" --add-needed "libims-shim.so" "${DEVICE_BLOB_ROOT}"/system_ext/lib64/lib-imsvideocodec.so
+
 # Gnss
 sed -i -e '$a\\    capabilities NET_BIND_SERVICE' "${DEVICE_BLOB_ROOT}"/vendor/etc/init/android.hardware.gnss@2.1-service-qti.rc
 
